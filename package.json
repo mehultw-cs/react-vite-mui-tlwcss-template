@@ -1,5 +1,5 @@
-{
-  "name": "swapper",
+  {
+  "name": "react-vite-template-mui-tailwindcss",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
